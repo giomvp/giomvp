@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giomvp Giovani Viacava aka 'Gio'
+- 👋 Hi, I’m @giomvp Giovani Viacava and I go by 'Gio'
 - 👀 I’m interested in Pyton, Machine Learning, Big Data, Data Analytics.
 - 🌱 I’m currently learning Python, Machine Learing and Data Analytics. 
 - 💞️ I’m looking to collaborate on everything related to areas mentioned. 
